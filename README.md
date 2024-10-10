@@ -49,7 +49,7 @@ Proteus8.9 下载与安装教程
 
 ### 2. 安装 Node.js
 
-去 [这里](https://nodejs.org/zh-cn) 下载最新版 Node.js 安装包，无脑下一步即可，安装玩之后检查下有没有 `npm` 命令。
+去 [这里](https://nodejs.org/zh-cn) 下载最新版 Node.js 安装包，无脑下一步即可，安装完之后检查下有没有 `npm` 命令。
 
 ### 3. 安装 Python
 
